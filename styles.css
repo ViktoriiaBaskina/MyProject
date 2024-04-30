@@ -19,7 +19,7 @@
   border: 5px solid white;
 }
 
-h2.section1 {
+.section1 h2 {
   font-size: 80px;
   font-weight: 300;
   color: #1616b3;
