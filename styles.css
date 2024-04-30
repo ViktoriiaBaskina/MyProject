@@ -110,6 +110,10 @@
     border-color: #FF0000;
     background-color: #FFFFFF;
   }
+
+.section3 form, .section3 fieldset, .section3 legend, .section3 label, .section3 input {
+    background-color: transparent;
+  }
   
   footer p {
     font-size: 10px;
