@@ -68,7 +68,6 @@
 
 .section2 ol, .section2 ul, .section2 li, .section2 figure, .section2 figcaption, .section2 strong, .section2 em {
   font-size: 15px;
-  font-weight: 300;
   color: #1616b3;
   padding: 0, 5px, 5px, 5px;
   background-color: transparent;
@@ -106,7 +105,7 @@ fieldset {
 .button-container button {
   display: inline-block;
   border: 2px solid #555555;
-  border-radius: 30px;
+  border-radius: 20px;
   padding: 10px 20px;
   text-decoration: none;
   color: #333333;
