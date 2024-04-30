@@ -1,12 +1,12 @@
 * {
-  background: grey;
+  background: #eeeeee;
 }
 
 .title {
   font-size: 100px;
   font-weight: 600;
   text-tranform: uppercase;
-  color: blue;
+  color: #15266e;
   text-align: center;
 }
 
