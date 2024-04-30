@@ -56,7 +56,7 @@
 
 .love, .hate {
   display: inline-block;
-  border: 10px solid blue;
+  border: 5px dotted grey;
   padding: 10px;
   margin-left: auto;
   margin-right: auto;
