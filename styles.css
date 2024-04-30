@@ -62,5 +62,8 @@
   width: 150px;
   height: 150px;
   object-fit: cover;
-  margin: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
 }
