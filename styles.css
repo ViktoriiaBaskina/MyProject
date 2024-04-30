@@ -52,7 +52,7 @@
 }
 
 .love, .hate {
-  float: left;
+  display: inline-block;
   border: 10px solid blue;
   padding: 10px;
   margin: 10px;
