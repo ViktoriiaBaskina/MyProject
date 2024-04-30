@@ -37,3 +37,7 @@ figure.section2 {
   height: 200px;
   object-fit: cover;
 }
+
+.love, .hate {
+  display: inline;
+}
