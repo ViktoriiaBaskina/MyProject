@@ -68,6 +68,7 @@
   font-size: 15px;
   font-weight: 300;
   color: #1616b3;
+  text-align: center;
   padding: 0, 5px, 5px, 5px;
   background-color: transparent;
 }
@@ -84,15 +85,10 @@ fieldset {
   background-color: transparent;
 }
 
-#catphoto {
-  border: 3px #141868;
-  border-radius: 30px; 
-}
-
 .button-container {
   margin-top: 20px;
 }
-a.button {
+.button-container button {
   display: inline-block;
   border: 2px solid #555555;
   padding: 10px 20px;
@@ -100,7 +96,7 @@ a.button {
   color: #333333;
   background-color: #EEEEEE;
 }
-a.button:hover {
+.button-container button:hover {
   border-color: #FF0000;
   background-color: #FFFFFF;
 }
