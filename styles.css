@@ -49,14 +49,14 @@
   border: 5px black;
 }
 
-figure.section2 {
-  width: 200px;
-  height: 200px;
-  object-fit: cover;
-}
-
 .love, .hate {
   display: inline;
   border: 10px solid blue;
   margin: 10px;
+}
+
+.section2 figure {
+   width: 200px;
+  height: 200px;
+  object-fit: cover;
 }
