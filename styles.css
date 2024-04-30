@@ -88,3 +88,19 @@ fieldset {
   border: 3px #141868;
   border-radius: 30px; 
 }
+
+.button-container {
+  margin-top: 20px;
+}
+a.button {
+  display: inline-block;
+  border: 2px solid #555555;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: #333333;
+  background-color: #EEEEEE;
+}
+a.button:hover {
+  border-color: #FF0000;
+  background-color: #FFFFFF;
+}
