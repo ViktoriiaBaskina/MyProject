@@ -17,6 +17,7 @@
   background-position: top center;
   padding: 5px;
   border: 10px dashed grey;
+  margin: 10px;
 }
 
 .section1 h2, .section2 h2 {
@@ -48,7 +49,8 @@
   background: rgb(185,174,166);
   background: radial-gradient(circle, rgba(185,174,166,1) 0%, rgba(106,102,99,1) 30%, rgba(25,25,23,1) 100%);
   padding: 10px;
-  border: 10px black;
+  border: 10px double black;
+  margin: 10px;
 }
 
 .love, .hate {
