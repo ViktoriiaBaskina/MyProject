@@ -20,7 +20,7 @@
   margin: 5px;
 }
 
-.section1 h2, .section2 h2 {
+.section1 h2, .section2 h2, .section3 h2 {
   font-size: 30px;
   font-weight: 700;
   color: #1616b3;
@@ -57,12 +57,12 @@
 
 .love, .hate {
   display: inline-block;
-  border: 5px dotted grey;
-  padding: 10px;
   margin-left: 0 auto;
   margin-right: 0 auto;
   justify-content: center;
   align-items: center;
+  border: 5px dotted grey;
+  padding: 10px;
   background-color: transparent;
 }
 
@@ -76,3 +76,12 @@
 
 .section3 {
 }  
+
+fieldset {
+  display: inline-block;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+}
