@@ -24,7 +24,7 @@
   font-weight: 300;
   color: #1616b3;
   padding: 10px;
-  opacity: 0;
+  opacity: 0,1;
 }
 
 .section1 p {
@@ -32,7 +32,7 @@
   font-weight: 300;
   color: #1616b3;
   padding: 10px;
-  opacity: 0;
+  opacity: 0,1;
 }
 
 .section1 a {
@@ -50,7 +50,7 @@
 }
 
 .love, .hate {
-  display: inline;
+  display: inline-block;
   border: 10px solid blue;
   margin: 10px;
 }
