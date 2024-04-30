@@ -15,8 +15,8 @@
   background-image: url("lapka.png");
   background-repeat: repeat;
   background-position: top center;
-  padding: 50px;
-  border: 5px solid white;
+  padding: 10px;
+  border: 10px solid white;
 }
 
 .section1 h2 {
