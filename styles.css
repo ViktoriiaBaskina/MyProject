@@ -54,7 +54,6 @@
 
 .love, .hate {
   display: inline-block;
-  float: left;
   border: 10px solid blue;
   padding: 10px;
   margin-left: auto;
@@ -72,5 +71,4 @@
 }
 
 .section3 {
-  clear:both;
 }  
