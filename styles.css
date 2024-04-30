@@ -76,6 +76,12 @@
 }
 
 .section3 {
+  background-image: url("cat.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 10px;
+  border: 10px dashed grey;
+  margin: 5px;
 }  
 
 fieldset {
