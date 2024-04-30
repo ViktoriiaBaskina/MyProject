@@ -1,119 +1,114 @@
 * {
-  background: #eeeeee;
-}
-
-.title {
-  font-size: 60px;
-  font-weight: 600;
-  color: #15266e;
+    background: #eeeeee;
+  }
+  
+  .title {
+    font-size: 60px;
+    font-weight: 600;
+    color: #15266e;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .section1 {
+    background-image: url("lapka.png");
+    background-repeat: repeat;
+    background-position: top center;
+    padding: 10px;
+    border: 10px dashed grey;
+    margin: 5px;
+  }
+  
+  .section1 h2, .section2 h2, .section3 h2 {
+    font-size: 30px;
+    font-weight: 700;
+    color: #1616b3;
+    text-align: center;
+    padding: 5px, 5px, 5px, 5px;
+    background-color: transparent;
+  }
+  
+  .section1 p, .section2 h3 {
+    font-size: 20px;
+    font-weight: 400;
+    color: #1616b3;
+    padding: 5px, 5px, 5px, 5px;
+    background-color: transparent;
+  }
+  
+  .section1 img, .section2 img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+  }
+  
+  .section2 {
+    background: rgb(246,244,242);
+    background: radial-gradient(circle, rgba(246,244,242,1) 0%, rgba(231,229,228,1) 32%, rgba(172,172,168,1) 100%);
+    padding: 10px;
+    border: 10px double black;
+    margin: 5px;
+  }
+  
+  .love, .hate {
+    display: inline-block;
+    margin: 0 auto;
+    border: 5px dotted grey;
+    padding: 10px;
+    background-color: transparent;
+  }
+  
+  .section2 ol, .section2 ul, .section2 li, .section2 figure, .section2 figcaption, .section2 strong, .section2 em {
+    font-size: 15px;
+    color: #1616b3;
+    padding: 0, 5px, 5px, 5px;
+    background-color: transparent;
+  }
+  
+  .section2 figcaption {
   text-align: center;
-  padding: 10px;
-}
-
-.section1 {
-  background-image: url("lapka.png");
-  background-repeat: repeat;
-  background-position: top center;
-  padding: 10px;
-  border: 10px dashed grey;
-  margin: 5px;
-}
-
-.section1 h2, .section2 h2, .section3 h2 {
-  font-size: 30px;
-  font-weight: 700;
-  color: #1616b3;
-  text-align: center;
-  padding: 0, 5px, 5px, 5px;
-  background-color: transparent;
-}
-
-.section1 p, .section2 h3 {
-  font-size: 20px;
-  font-weight: 400;
-  color: #1616b3;
-  padding: 0, 5px, 5px, 5px;
-  background-color: transparent;
-}
-
-.section1 img, .section2 img {
-  width: 200px;
-  height: 200px;
-  object-fit: cover;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 5px;
-}
-
-.section2 {
-  background: rgb(246,244,242);
-  background: radial-gradient(circle, rgba(246,244,242,1) 0%, rgba(231,229,228,1) 32%, rgba(172,172,168,1) 100%);
-  padding: 10px;
-  border: 10px double black;
-  margin: 5px;
-}
-
-.love, .hate {
-  display: inline-block;
-  margin: 0 auto;
-  position: absolute;
-  transform: translate(-50%, -50%);
-  border: 5px dotted grey;
-  padding: 10px;
-  background-color: transparent;
-}
-
-.section2 ol, .section2 ul, .section2 li, .section2 figure, .section2 figcaption, .section2 strong, .section2 em {
-  font-size: 15px;
-  color: #1616b3;
-  padding: 0, 5px, 5px, 5px;
-  background-color: transparent;
-}
-
-.section2 figcaption {
-text-align: center;
-}
-
-.section3 {
-  background-image: url("cat.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-  padding: 10px;
-  border: 10px dashed grey;
-  margin: 5px;
-}  
-
-fieldset {
-  display: inline-block;
-  margin-left: 0 auto;
-  margin-right: 0 auto;
-  justify-content: center;
-  align-items: center;
-  background-color: transparent;
-}
-
-.button-container {
-  margin-top: 20px;
-  background-color: transparent;
-}
-.button-container button {
-  display: inline-block;
-  border: 2px solid #555555;
-  border-radius: 20px;
-  padding: 10px 20px;
-  text-decoration: none;
-  color: #333333;
-  background-color: #EEEEEE;
-}
-.button-container button:hover {
-  border-color: #FF0000;
-  background-color: #FFFFFF;
-}
-
-footer p {
-  font-size: 10px;
-  color: #15266e;
-  text-align: center;
-  padding: 10px;
-}
+  }
+  
+  .section3 {
+    background-image: url("cat.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+    border: 10px dashed grey;
+    margin: 5px;
+  }  
+  
+  fieldset {
+    display: inline-block;
+    margin: 0 auto;
+    background-color: transparent;
+  }
+  
+  .button-container {
+    margin-top: 20px;
+    background-color: transparent;
+  }
+  .button-container button {
+    display: inline-block;
+    border: 2px solid #555555;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #333333;
+    background-color: #EEEEEE;
+  }
+  .button-container button:hover {
+    border-color: #FF0000;
+    background-color: #FFFFFF;
+  }
+  
+  footer {
+    font-size: 10px;
+    color: #15266e;
+    text-align: center;
+    padding: 10px;
+  }
