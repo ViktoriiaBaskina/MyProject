@@ -1,5 +1,12 @@
+* {
+  background: grey;
+}
+
 .title {
   font-size: 200;
   color: blue;
   text-align: center;
 }
+
+.section1 {
+  
