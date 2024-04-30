@@ -16,7 +16,7 @@
   background-repeat: repeat;
   background-position: top center;
   padding: 5px;
-  border: 10px solid white;
+  border: 10px dashed grey;
 }
 
 .section1 h2 {
