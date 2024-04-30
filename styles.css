@@ -64,7 +64,7 @@
   background-color: transparent;
 }
 
-.section2 ol, .section2 ul, .section2 li, .section figcaption {
+.section2 ol, .section2 ul, .section2 li, .section figure, .section figcaption {
   font-size: 15px;
   font-weight: 300;
   color: #1616b3;
@@ -82,4 +82,9 @@ fieldset {
   justify-content: center;
   align-items: center;
   background-color: transparent;
+}
+
+#catphoto {
+  border: 3px #141868;
+  border-radius: 30px; 
 }
