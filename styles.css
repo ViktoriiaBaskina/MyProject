@@ -63,7 +63,7 @@
   background-color: transparent;
 }
 
-.section2 li {
+.section2 ol, .section2 ul, .section2 li {
   font-size: 15px;
   font-weight: 300;
   color: #1616b3;
