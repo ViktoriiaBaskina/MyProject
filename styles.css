@@ -15,7 +15,6 @@
   background-image: url("lapka.jpg");
   background-repeat: repeat;
   background-position: top center;
-  display: inline;
   padding: 50px;
   border: 5px solid white;
 }
