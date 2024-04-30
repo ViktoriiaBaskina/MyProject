@@ -53,6 +53,7 @@
 }
 
 .love, .hate {
+  display: inline-block;
   float: left;
   border: 10px solid blue;
   padding: 10px;
