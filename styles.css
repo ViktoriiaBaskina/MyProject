@@ -60,6 +60,8 @@
   padding: 10px;
   margin-left: 0 auto;
   margin-right: 0 auto;
+  justify-content: center;
+  align-items: center;
   background-color: transparent;
 }
 
