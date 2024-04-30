@@ -46,5 +46,7 @@ figure.section2 {
 }
 
 .love, .hate {
-  display: inline;
+  display: inline-block;
+  border: 10px solid blue;
+  margin: 20px;
 }
