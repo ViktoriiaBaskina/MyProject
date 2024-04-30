@@ -53,6 +53,7 @@
   padding: 10px;
   border: 10px double black;
   margin: 5px;
+  display: flex;
   justify-content: center;
   align-items: center;
 }
