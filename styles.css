@@ -8,7 +8,7 @@
   text-tranform: uppercase;
   color: #15266e;
   text-align: center;
-  padding: 15px;
+  padding: 10px;
 }
 
 .section1 {
@@ -17,7 +17,7 @@
   background-position: top center;
   padding: 10px;
   border: 10px dashed grey;
-  margin: 10px;
+  margin: 5px;
 }
 
 .section1 h2, .section2 h2 {
@@ -51,7 +51,7 @@
   background: radial-gradient(circle, rgba(246,244,242,1) 0%, rgba(231,229,228,1) 32%, rgba(172,172,168,1) 100%);
   padding: 10px;
   border: 10px double black;
-  margin: 10px;
+  margin: 5px;
 }
 
 .love, .hate {
