@@ -52,15 +52,15 @@
   padding: 10px;
   border: 10px double black;
   margin: 5px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .love, .hate {
   display: inline-block;
   margin: 0 auto;
-  width: 40%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   border: 5px dotted grey;
   padding: 10px;
   background-color: transparent;
