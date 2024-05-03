@@ -57,7 +57,7 @@
   .love, .hate {
     display: inline-block;
     width: 30%;
-    margin: 0 9%;
+    margin: 0 9.5%;
     box-sizing: border-box;
     border: 5px dotted grey;
     padding: 10px;
@@ -87,7 +87,7 @@
   fieldset {
     display: inline-block;
     width: 30%;
-    margin: 0 9%;
+    margin: 0 9.5%;
     box-sizing: border-box;
     background-color: transparent;
   }
